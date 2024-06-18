@@ -1,0 +1,14 @@
+*.csv
+*.pkl
+catboost_info/
+notebook/
+artifacts/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.gz
+.DS_Store
+.env
